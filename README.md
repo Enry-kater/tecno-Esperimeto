@@ -1,4 +1,7 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<body bgcolor="sky blue">
+  <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>MI PAGINA WEED  DE P </title>
   <style>
@@ -8,18 +11,20 @@
 
     .header {
       padding: 5,0px;
+      RED-color: #f1f1f1;
       text-align: center;
     }
 
     /* estilo parar la base del menu */
     .topnav {
       overflow: hidden;
+      background-color: #333;
     }
 
     /* Enlaces del menu */
     .topnav a {
       float: left;
-      display: k;
+      display: block;
       color: #F2F2F2;
       text-align: center;
       padding: 14px 16px;
@@ -149,3 +154,7 @@ CAMPIOS DE PANTALLA
 </body>
 
 </html>`
+
+
+  
+  
