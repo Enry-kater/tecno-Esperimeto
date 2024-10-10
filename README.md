@@ -14,7 +14,6 @@
     /* estilo parar la base del menu */
     .topnav {
       overflow: hidden;
-      background-color: #333;
     }
 
     /* Enlaces del menu */
